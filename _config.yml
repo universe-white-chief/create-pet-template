@@ -1,0 +1,23 @@
+# "/" + 仓库的名字. 资源文件的路径组成部分
+baseurl: "/create-story-template"
+
+# 网页的标题
+title: 我的个人主页
+# 内容页标题
+name: 我的宠物 🐈‍⬛
+
+# 个人昵称
+username: 阿 白
+# 个人头像, 可选择: default.jpg | dinosaur.jpg | github-1.jpg | github-2.jpg | github-3.jpg
+avatar: github-3.jpg
+# 个人简介， 显示在页面的昵称正下方
+description: 全栈工程师， 专注于 Mobile, TDD, DDD 等
+
+# 宠物相册图像地址. 值为 url 格式
+images:
+  - https://cdn.jsdelivr.net/gh/sddtc/upic-cloud@main/images/2021/2021-02-28-zU68tY-AG9Oug.png
+
+# 其它配置，可忽略
+sass:
+  sass_dir: assets/_sass
+  style: compressed
